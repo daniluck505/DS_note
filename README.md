@@ -10,6 +10,7 @@
 |[Statistics](https://github.com/daniluck505/DS_note/blob/main/Статистика.ipynb)|classic ML||
 |[Bootstrap](https://github.com/daniluck505/DS_note/blob/main/bootstrap/bootstrap.ipynb)|classic ML||
 |[LearnPyTorch](https://github.com/daniluck505/DS_note/blob/main/LearnPyTorch.ipynb)|PyTorch, DL||
-|[PyTorchPractice](https://github.com/daniluck505/DS_note/blob/main/PyTorch_Practice/Pytorch_Practic_0.ipynb)|PyTorch, D||
+|[PyTorch Practice 0](https://github.com/daniluck505/DS_note/blob/main/PyTorch_Practice/Pytorch_Practic_0.ipynb)|PyTorch, D||
+|[]()|||
 |[]()|||
 
