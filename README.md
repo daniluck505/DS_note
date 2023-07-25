@@ -12,5 +12,5 @@
 |[LearnPyTorch](https://github.com/daniluck505/DS_note/blob/main/LearnPyTorch.ipynb)|PyTorch, DL||
 |[PyTorch Practice 0](https://github.com/daniluck505/DS_note/blob/main/PyTorch_Practice/Pytorch_Practic_0.ipynb)|PyTorch, DL||
 |[PyTorch Practice 1](https://github.com/daniluck505/DS_note/blob/main/PyTorch_Practice/Pytorch_Practic_1.ipynb)|PyTorch, DL||
+|[PyTorch Practice 2](https://github.com/daniluck505/DS_note/blob/main/PyTorch_Practice/Pytorch_Practic_2.ipynb)|PyTorch, DL|VGG, AMP|
 |[]()|||
-
