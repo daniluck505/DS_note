@@ -1,0 +1,19 @@
+train_dogs_path: '/content/training_set/training_set/dogs'
+train_cats_path: '/content/training_set/training_set/cats'
+test_dogs_path: '/content/test_set/test_set/dogs'
+test_cats_path: '/content/test_set/test_set/cats'
+
+data:
+  img_size: 64
+  batch_size: 16
+
+network:
+  in_nc: 3
+  nc: 50
+  out_nc: 2
+
+train:
+  epochs: 10
+  device: cuda
+  use_amp: True
+
